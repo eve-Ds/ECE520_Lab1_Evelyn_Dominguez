@@ -1,2 +1,8 @@
-# ECE520_Lab1_Evelyn_Dominguez
-![Part1](<WaveForm>)
+# ECE520\_Lab1\_Evelyn\_Dominguez
+
+
+
+
+
+!\[Screenshot](Blinking\_LED\_Wavefrom.png)
+
