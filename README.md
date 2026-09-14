@@ -4,5 +4,5 @@
 
 
 
-![Screenshot](Blinking\_LED\_Wavefrom.png)
+![Screenshot](Blinking_LED_Wavefrom.png)
 
