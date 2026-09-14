@@ -4,5 +4,5 @@
 
 
 
-![Screenshot](Blinking_LED_Wavefrom.png)
+<img src = (Blinking_LED_Wavefrom.png)>
 
