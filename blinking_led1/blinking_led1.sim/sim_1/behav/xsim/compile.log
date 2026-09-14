@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/domev/ECE520/blinking_led1/blinking_led1.srcs/sources_1/new/blinking_led.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'blinking_led'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/domev/ECE520/blinking_led1/blinking_led1.srcs/sim_1/new/tb_blinking_led.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_blinking_led'

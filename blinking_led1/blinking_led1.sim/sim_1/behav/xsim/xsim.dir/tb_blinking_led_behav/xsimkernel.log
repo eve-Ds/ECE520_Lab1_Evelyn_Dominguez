@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_blinking_led_behav/xsimk.exe -simmode gui -wdb tb_blinking_led_behav.wdb -simrunnum 0 -socket 65466
+Design successfully loaded
+Design Loading Memory Usage: 10408 KB (Peak: 10408 KB)
+Design Loading CPU Usage: 15 ms
