@@ -9,6 +9,7 @@ For the blinking led task, I created an if else statement to toggle the LEDs and
 
 # Verification and Results
 I tested the blinking led by creating three test cases: Reset Behavior, Disabled Output, and LED Toggling. I ran the simulation and looked at the waveform to make sure it was operating as intended:
+
 Blinking LED:
 <img width="1020" height="615" alt="Blinking_LED_Waveform" src="https://github.com/user-attachments/assets/56b1b303-679a-480e-99e4-8348be715481" />
 
