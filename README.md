@@ -14,4 +14,7 @@ Blinking LED:
 
 <img width="660" height="440" alt="image" src="https://github.com/user-attachments/assets/d47e6691-804e-45a6-819c-4ead16ebf0f3" />
 
+RGB LED:
 <img width="1122" height="632" alt="Screenshot 2026-09-13 221219" src="https://github.com/user-attachments/assets/6cc31b16-8b21-414f-9df7-486b26e23b98" />
+<img width="570" height="436" alt="Screenshot 2026-09-14 220504" src="https://github.com/user-attachments/assets/2e59ad07-55eb-4d5b-9463-0781be2050d3" />
+
