@@ -12,7 +12,9 @@ I tested the blinking led by creating three test cases: Reset Behavior, Disabled
 Blinking LED:
 <img width="1020" height="615" alt="Blinking_LED_Waveform" src="https://github.com/user-attachments/assets/56b1b303-679a-480e-99e4-8348be715481" />
 
-<img width="660" height="440" alt="image" src="https://github.com/user-attachments/assets/d47e6691-804e-45a6-819c-4ead16ebf0f3" />
+<img width="550" height="440" alt="image" src="https://github.com/user-attachments/assets/d47e6691-804e-45a6-819c-4ead16ebf0f3" />
+
+For the RGB LED, I created a test case for each color/switch and one case for when multiple switches are on. I ran the waveform first, then I connected the board and programed it. Once the board was programed, I tested each switch by individually and made sure the correct color was being shown. Then, I turned on two switches to see if the LED would turn off. I also tested the reset button by flipping one switch then clicking the reset button. The LED turned off when the reset button was switched. 
 
 RGB LED:
 <img width="1122" height="632" alt="Screenshot 2026-09-13 221219" src="https://github.com/user-attachments/assets/6cc31b16-8b21-414f-9df7-486b26e23b98" />
