@@ -21,7 +21,7 @@ For the RGB LED, I created a test case for each color/switch. I also made a case
 
 RGB LED:
 <img width="1122" height="632" alt="Screenshot 2026-09-13 221219" src="https://github.com/user-attachments/assets/6cc31b16-8b21-414f-9df7-486b26e23b98" />
-<img width="570" height="436" alt="Screenshot 2026-09-14 220504" src="https://github.com/user-attachments/assets/2e59ad07-55eb-4d5b-9463-0781be2050d3" />
+<img width="570" height="325" alt="Screenshot 2026-09-14 220504" src="https://github.com/user-attachments/assets/2e59ad07-55eb-4d5b-9463-0781be2050d3" />
 <img width="527" height="160" alt="Screenshot 2026-09-14 221440" src="https://github.com/user-attachments/assets/b3f2e517-d9a7-4481-99ac-dd8cace0f76f" />
 <img width="803" height="192" alt="image" src="https://github.com/user-attachments/assets/6959a575-32e2-4b57-8b8d-44059f57d3c3" />
 
